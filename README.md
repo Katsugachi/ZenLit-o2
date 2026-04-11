@@ -13,5 +13,13 @@ A fast, minimalist JavaScript chess engine wrapper and GUI. ZenLit-o2 runs a hig
 
 **Launch** [katsugachi.github.io/ZenLit-o2](http://katsugachi.github.io/ZenLit-o2)
 
-## Local Development
-1. Download repo
+## Run Locally
+1. Download Repo: `<> Code` -> `Download Zip`
+<br><br>
+2. Extract File: Right Click -> `Extract All` `
+<br><br>
+3. Open CMD Prompt & Navigate To The File -> `⊞ + R` , type "cmd" and press enter. then navigate to the file `cd filelocation`
+<br><br>
+4. Run python local server: `py -m http.server 4500`
+<br><br>
+5. Visit http://localhost:4500/ in your browser. 
