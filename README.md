@@ -1,2 +1,3 @@
 # ZenLit-o7
-Stronger, slightly slower variation of the ZenLit stockfish wrapper
+3650 ELO JS Chess Engine 
+# Site
