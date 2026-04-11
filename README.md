@@ -4,6 +4,6 @@
 <br>
 
 # Desc.
-3650 ELO JS Chess Engine 
+3650 ELO JS Chess engine wrapper with GUI and optimization for speed
 # Site
 http://katsugachi.github.io/ZenLit-o2
