@@ -11,7 +11,7 @@
 
 A fast, minimalist JavaScript chess engine wrapper and GUI. ZenLit-o2 runs a highly optimized WebAssembly (WASM) javascript engine, achieving a **~3650 ELO** playing strength with under 5000ms movetime and 98.4% accuracy
 
-**Launch** [katsugachi.github.io/ZenLit-o2](http://katsugachi.github.io/ZenLit-o2)
+**Launch** : [katsugachi.github.io/ZenLit-o2](http://katsugachi.github.io/ZenLit-o2)
 
 ## Run Locally
 1. Download Repo: `<> Code` -> `Download Zip`
