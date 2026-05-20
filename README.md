@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)]()
 
-A fast, minimalist JavaScript chess engine wrapper and GUI. ZenLit-o2 runs a highly optimized WebAssembly (WASM) javascript engine, achieving a **~3650 ELO** playing strength with under 5000ms movetime and 98.4% accuracy
+A fast, minimalist JavaScript chess engine wrapper and GUI. ZenLit-o2 runs a highly optimized WebAssembly (WASM) javascript engine, achieving a **~3650 ELO** playing strength with under 5000ms movetime and 98.4% accuracy. The entire chess engine runs on your browser as well.
 
 **Launch** : [katsugachi.github.io/ZenLit-o2](http://katsugachi.github.io/ZenLit-o2)
 
