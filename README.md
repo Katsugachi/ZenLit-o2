@@ -3,8 +3,6 @@
 </div>
 <br>
 
-# ZenLit-o2
-
 [![Live Demo](https://img.shields.io/badge/Demo-Live_Site-0058a3?style=for-the-badge)](http://katsugachi.github.io/ZenLit-o2)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)]()
