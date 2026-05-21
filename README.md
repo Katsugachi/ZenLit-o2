@@ -2,7 +2,6 @@
   <img src="ZenLit-o2.png" alt="Project Banner" width="65%">
 </div>
 <br>
-
 # ZenLit-o2
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live_Site-0058a3?style=for-the-badge)](http://katsugachi.github.io/ZenLit-o2)
