@@ -82,7 +82,7 @@ h1{font-size:22px;color:var(--accent);letter-spacing:2px;font-weight:500}
 <script>
 let uciMoves=[],sfWorker=null;
 try{
-    sfWorker=new Worker('stockfish-18-lite.js');
+    sfWorker=new Worker('stockfish-19-lite.js');
     sfWorker.onmessage=function(E){
         const n=E.data;
         if(n.startsWith('bestmove')){
